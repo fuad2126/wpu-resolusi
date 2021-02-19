@@ -1,0 +1,4 @@
+resolusi
+- menguasai git
+- menguasai git 2
+- menguasai git 3
