@@ -2,3 +2,5 @@ resolusi
 - menguasai git
 - menguasai git 2
 - menguasai git 3
+- menguasai git 4 
+- menguasai git 5
